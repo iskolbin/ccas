@@ -47,6 +47,14 @@
             margin-left: 20px;
         }
     }
+    
+		.lang-link {
+        line-height: $base-line-height;
+				padding: 10px;
+				top: 10px;
+				left: 1px;
+				position:relative;
+			}
 
     @include media-query($on-palm) {
         position: absolute;
