@@ -171,6 +171,22 @@
 		}
 	},
 
+	"kirichenko_m_v": {
+		"surname": "Кириченко",
+		"firstname": "Марина",
+		"patronymic":	"Владимировна",
+		"degree": "к.ф-м.н.",
+		"position": "научный сотрудник",
+		"former": true,
+		"translate":{
+			"en": {
+				"surname": "Kirichenko",
+				"firstname": "Marina",
+				"patronymic": "Vladimirovna"
+			}
+		}
+	},
+
 	"zhuravlev_a_a": {
 		"surname": "Журавлёв",
 		"firstname": "Андрей",
