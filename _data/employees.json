@@ -115,7 +115,7 @@
 		"surname": "Гаврилов",
 		"firstname": "Евгений",
 		"patronymic": "Сергеевич",
-		"position": "младший научный сотрудник",
+		"position": "научный сотрудник",
 		
 		"translate":{
 		  "en": {
@@ -171,27 +171,11 @@
 		}
 	},
 
-	"kirichenko_m_v": {
-		"surname": "Кириченко",
-	 	"firstname": "Марина",
-	 	"patronymic":	"Владимировна",
-		"degree": "к.ф-м.н.",
-		"position": "научный сотрудник",
-		
-		"translate":{
-		  "en": {
-				"surname": "Kirichenko",
-				"firstname": "Marina",
-				"patronymic": "Vladimirovna"
-			}
-		}
-	},
-
 	"zhuravlev_a_a": {
 		"surname": "Журавлёв",
 		"firstname": "Андрей",
 		"patronymic": "Андреевич",
-		"position": "и.о. младшего научного сотрудника",
+		"position": "младший научный сотрудник",
 
 		"translate": {
 			"en": {
