@@ -39,12 +39,12 @@ permalink: /seminar/
 
 ## Архив мероприятий
 
-* [24.11.2016 Семинар 9](../seminars/seminar9.html)
-* [02.06.2016 Семинар 8](../seminars/seminar8.html)
-* [19.11.2015 Семинар 7](../seminars/seminar7.html)
-* [23.04.2015 Семинар 6](../seminars/seminar6.html)
-* [28.11.2014 Семинар 5](../seminars/seminar5.html)
-* [27.02.2014 Семинар 4](../seminars/seminar4.html)
-* [31.10.2013 Семинар 3](../seminars/seminar3.html)
-* [13.06.2013 Семинар 2](../seminars/seminar2.html)
-* [28.03.2013 Семинар 1](../seminars/seminar1.html)
+* [24.11.2016 Семинар 9]({{site.baseurl}}/seminars/seminar9.html)
+* [02.06.2016 Семинар 8]({{site.baseurl}}/seminars/seminar8.html)
+* [19.11.2015 Семинар 7]({{site.baseurl}}/seminars/seminar7.html)
+* [23.04.2015 Семинар 6]({{site.baseurl}}/seminars/seminar6.html)
+* [28.11.2014 Семинар 5]({{site.baseurl}}/seminars/seminar5.html)
+* [27.02.2014 Семинар 4]({{site.baseurl}}/seminars/seminar4.html)
+* [31.10.2013 Семинар 3]({{site.baseurl}}/seminars/seminar3.html)
+* [13.06.2013 Семинар 2]({{site.baseurl}}/seminars/seminar2.html)
+* [28.03.2013 Семинар 1]({{site.baseurl}}/seminars/seminar1.html)
