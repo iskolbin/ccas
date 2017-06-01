@@ -39,7 +39,7 @@ permalink: /seminar/
 
 ## Ближайший семинар
 
-* [22.06.2017 Семинар 10]({{site.baseurl}}/seminars/seminar9.html)
+* [22.06.2017 Семинар 10]({{site.baseurl}}/seminars/seminar10.html)
 
 ## Архив мероприятий
 
