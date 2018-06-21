@@ -41,6 +41,7 @@ permalink: /seminar/
 
 ## Архив мероприятий
 
+* [17.05.2018 Семинар 11]({{site.baseurl}}/seminars/seminar11.html)
 * [22.06.2017 Семинар 10]({{site.baseurl}}/seminars/seminar10.html)
 * [24.11.2016 Семинар 9]({{site.baseurl}}/seminars/seminar9.html)
 * [02.06.2016 Семинар 8]({{site.baseurl}}/seminars/seminar8.html)
