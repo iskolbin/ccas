@@ -4,7 +4,7 @@
 		"firstname": "Каринэ",
 		"patronymic": "Карленовна",
 		"position": "зав. отделом",
-		"degree": "к.ф-м.н.",
+		"degree": "д.ф-м.н.",
 
 		"translate":{
 		  "en": {
@@ -12,7 +12,7 @@
 				"firstname": "Karine",
 				"patronymic": "Karlenovna",
 				"position": "Head of Department",
-				"degree": "Ph.D"
+				"degree": "Dr.S"
 			}
 		}
 	},
