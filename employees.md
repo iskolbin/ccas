@@ -12,11 +12,7 @@ permalink: /employees/
  {% if emp.fullname %}
   {{emp.fullname}}
  {% else %}
-  {% if emp.firstname %}{{emp.firstname}}{% endif %}
-  {% if emp.patronymic %}{{emp.patronymic}} {% endif %}
-  {% if emp.surname %}{{emp.surname}}{% endif %}
- 	{% if emp.degree %}<i>, {{emp.degree}}</i>{% endif %}
- 	{% if emp.position %}<i>, {{emp.position}}</i>{% endif %}
+  {% if emp.firstname %}{{emp.firstname}}{% endif %}{% if emp.patronymic %} {{emp.patronymic}}{% endif %}{% if emp.surname %} {{emp.surname}}{% endif %}{% if emp.degree %}<i>, {{emp.degree}}</i>{% endif %}{% if emp.position %}<i>, {{emp.position}}</i>{% endif %}
  {% endif %}
  </h3>
 
