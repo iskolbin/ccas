@@ -2,6 +2,7 @@
 layout: page
 title: Сотрудники
 permalink: /employees/
+navbar: true
 ---
 {% for empl in site.data.employees %}
  {% assign name = empl[0] %}

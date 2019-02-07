@@ -2,6 +2,7 @@
 layout: page
 title: Публикации
 permalink: /publications/
+navbar: true
 ---
 <ol>
 {% assign sortedpubs = site.data.pubs | sort: pubyear[0] %}
