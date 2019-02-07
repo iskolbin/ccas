@@ -8,16 +8,12 @@ permalink: /employees/
  {% assign emp = empl[1] %}
  {% unless emp.former %}
  <a name="{{ name }}"></a>
- {% if site.data.bio[name].detailed %}<div class="TextShower-box"><div class="TextShower-title">{% endif %}
  <h3>
- {% if emp.fullname %}
-  {{emp.fullname}}
- {% else %}
+ {% if emp.bio %}<a href="{{site.baseurl}}/bio/{{name}}">{% endif %}
   {% if emp.firstname %}{{emp.firstname}}{% endif %}{% if emp.patronymic %} {{emp.patronymic}}{% endif %}{% if emp.surname %} {{emp.surname}}{% endif %}{% if emp.degree %}<i>, {{emp.degree}}</i>{% endif %}{% if emp.position %}<i>, {{emp.position}}</i>{% endif %}
- {% endif %}
+ {% if emp.bio %}</a>{% endif %}
  </h3>
- {% if site.data.bio[name].detailed %}</div><div class="TextShower-text">{{ site.data.bio[name].detailed }}</div></div>{% endif %}
- {% if emp.image %} <p align="center"><img src="{{site.baseurl}}/img/employees/{{emp.image}}"></img></p> {% endif %}
+ {% if emp.image %} <p align="center"><img src="{{site.baseurl}}/img/employees/{{emp.image}}"></img></p>{% endif %}
  {% if site.data.bio[name].plain %} <p>{{site.data.bio[name].plain }}</p> {% endif %} 
  {% if emp.email %}<p>e-mail <a href="mailto:{{emp.email}}">{{emp.email}}</a></p>{% endif %}
  {% if emp.homephone %} <p>тел. {{emp.homephone}} (дом.) </p> {% endif %}
