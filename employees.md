@@ -16,7 +16,7 @@ permalink: /employees/
   {% if emp.firstname %}{{emp.firstname}}{% endif %}{% if emp.patronymic %} {{emp.patronymic}}{% endif %}{% if emp.surname %} {{emp.surname}}{% endif %}{% if emp.degree %}<i>, {{emp.degree}}</i>{% endif %}{% if emp.position %}<i>, {{emp.position}}</i>{% endif %}
  {% endif %}
  </h3>
- {% if site.data.bio[name].detailed %}</div><p class="TextShower-text">{{ site.data.bio[name].detailed }}</p></div>{% endif %}
+ {% if site.data.bio[name].detailed %}</div><div class="TextShower-text">{{ site.data.bio[name].detailed }}</div></div>{% endif %}
  {% if emp.image %} <p align="center"><img src="{{site.baseurl}}/img/employees/{{emp.image}}"></img></p> {% endif %}
  {% if site.data.bio[name].plain %} <p>{{site.data.bio[name].plain }}</p> {% endif %} 
  {% if emp.email %}<p>e-mail <a href="mailto:{{emp.email}}">{{emp.email}}</a></p>{% endif %}
