@@ -63,11 +63,31 @@
 		"name": "Computational model of 2DEG mobility in the AlGaN/GaN heterostructures",
 		"authors": ["abgaryan_k_k", "mitigullin_i_v", "reviznikov_d_l"],
 		"journal": "Phys.Status Solidi",
-		"number": "C11, №2",
+		"number": "C12, №2",
 		"year": 2015,
 		"lang": "en",
 		"pages": [407,411],
-		"tag": "rec"
+		"tag": "rec",
+		"link": {
+			"url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pssc.201400200",
+			"type": "abstract"
+		}
+	},
+
+	"art2015_8": {
+		"name": "Theoretical investigation of 2DEG concentration and mobility in the AlGaN/GaN heterostructures with various Al concentrations",
+		"authors": ["abgaryan_k_k", "mitigullin_i_v", "reviznikov_d_l"],
+		"journal": "Phys.Status Solidi",
+		"number": "C12, №12",
+		"year": 2015,
+		"lang": "en",
+		"pages": [1376,1382],
+		"tag": "rec",
+		"link": {
+			"internal": true,
+			"url": "pdfs/abgaryan2015.pdf",
+			"type": "pdf"
+		}
 	},
 
 	"th2015_1": {

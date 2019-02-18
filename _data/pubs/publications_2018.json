@@ -1,0 +1,44 @@
+{
+	"art2018_1": {
+		"name": "Информационная технология построения многомасштабных  моделей в задачах вычислительного материаловедения",
+		"journal": "Издательство «Радиотехника»,«Системы высокой доступности»",
+		"year": 2018,
+		"pages": [9,15],
+		"number": "Т.15 №2",
+		"authors": ["abgaryan_k_k"],
+		"tag": "ref",
+		"link": {
+			"internal": true,
+			"type": "pdf",
+			"url": "pdfs/abgaryan2018.pdf"
+		}
+	},
+	"art2018_2": {
+		"name": "Engineering of entanglement and spin state transfer via quantum chains of atomic spins at large separations",
+		"authors": ["bazhanov_d_i", "Sivkov I.N.", "Sivkov I.N.", "Stepanyuk V.S."],
+		"journal": "Scientific Reports",
+		"year": 2018,
+		"number": "8, 14118",
+		"lang": "en",
+		"doi": "10.1038/s41598-018-32145-3",
+		"link": {
+			"internal": true,
+			"type": "pdf",
+			"url": "pdfs/bazhanov2018.pdf"
+		}
+	},
+	"art2018_3": {
+		"name": "Optimization problems of nanosized semiconductor heterostructures",
+		"authors": ["abgaryan_k_k"],
+		"journal": "Pleiades Publishing, Ltd., Russian Microelectronics",
+		"year": 2018,
+		"number": "Vol.47, №8",
+		"lang": "en",
+		"pages": [112,118],
+		"link": {
+			"internal": true,
+			"type": "pdf",
+			"url": "pdfs/abgaryan2018_2.pdf"
+		}
+	}
+}

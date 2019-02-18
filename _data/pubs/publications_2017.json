@@ -1,0 +1,31 @@
+{
+	"art2017_1": {
+		"name": "Информационная поддержка  задач многомасштабного моделирования композиционных материалов",
+		"authors": ["abgaryan_k_k", "gavrilov_e_s", "Марасанов А.М."],
+		"journal": "International Journal of Open Information Technologies",
+		"year": 2017,
+		"pages": [24,29],
+		"number": "№12",
+		"tag": "ref",
+		"link": {
+			"url": "http://injoit.org/index.php/j1/article/viewFile/516/488",
+			"type": "pdf"
+		}
+	},
+
+	"art2017_2": {
+		"name": "Control and manipulation of quantum spin switching and spin correlations in [Tb2] molecular magnet under a pulse magnetic field",
+		"authors": ["Farberovich  O.V.", "bazhanov_d_i"],
+		"journal": "Journal of Magnetism and Magnetic Materials",
+		"year": 2017,
+		"pages": [173,180],
+		"number": 439,
+		"tag": "ref",
+		"doi": "http://dx.doi.org/10.1016/j.jmmm.2017.04.063",
+		"link": {
+			"internal": true,
+			"url": "pdfs/farberovich2017.pdf",
+			"type": "pdf"
+		}
+	}
+}

@@ -33,7 +33,15 @@ navbar: true
    {{auth}}
   {% endif %}
    {% unless forloop.last %},{% endunless %}
-  {% endfor %} «{{pub.name}}». — {% if pub.origin %}{{pub.origin}}:{% endif %} {% if pub.journal %}{{pub.journal}},{% endif %}{%if pub.conference %}{{pub.conference}},{% endif %} {{pub.year}}.{% if pub.pages %} — {{p}}{{pub.pages | join: '-'}}{% endif %}{% if pub.mpages %} — {{p}}{{pub.mpages | join: ','}}{% endif %}
+  {% endfor %} {{pub.name}}. — {% if pub.origin %}{{pub.origin}}:{% endif %} {% if pub.journal %}{{pub.journal}},{% endif %}{%if pub.conference %}{{pub.conference}},{% endif %} {{pub.year}}.{% if pub.pages %} — {{p}}{{pub.pages | join: '-'}}{% endif %}{% if pub.mpages %} — {{p}}{{pub.mpages | join: ','}}{% endif %}{% if pub.doi %}, DOI:{{pub.doi}}{% endif %}
+	{% if pub.link %}
+		{% assign url = pub.link.url %}
+		{% assign prefix = "" %}
+		{% if pub.link.internal %}
+			{% assign prefix = site.baseurl | append: "/" %}
+		{% endif %}
+		<a href="{{prefix}}{{url}}">{% if pub.link.type == "pdf" %}Скачать PDF{% else %}Abstract{% endif %}</a>
+	{% endif %}
 	</li>
 {% endfor %}
 <hr>

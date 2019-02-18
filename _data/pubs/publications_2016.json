@@ -4,8 +4,14 @@
 		"authors": ["abgaryan_k_k", "reviznikov_d_l"],
 		"year": 2016,
 		"journal": "ЖВМ и МФ",
-		"number": "№1",
-		"tag": "ref"
+		"pages": [155,155],
+		"number": "T.56, №1",
+		"tag": "ref",
+		"link": {
+			"internal": true,
+			"url": "pdfs/abgaryan2016.pdf",
+			"type": "pdf"
+		}
 	},
 
 	"art2016_2": {
@@ -36,6 +42,22 @@
 		"journal": "Известия вузов. Материалы электронной техники",
 		"tag": "ref",
 		"number": "Т.19, №4"
+	},
+
+	"art2016_5": {
+		"name": "Meshfree Computational Algorithms Based on Normalized Radial Basis Functions",
+		"authors": ["Vasilyev A.N.", "kolbin_i_s", "reviznikov_d_l"],
+		"year": 2016,
+		"journal": "Lecture Notes in Computer Science",
+		"pages": [583,591],
+		"number": "Vol. 9719",
+		"doi": "https://doi.org/10.1007/978-3-319-40663-3_67",
+		"tag": "ref",
+		"lang": "en",
+		"link": {
+			"url": "https://link.springer.com/chapter/10.1007%2F978-3-319-40663-3_67",
+			"type": "abstract"
+		}
 	},
 
 	"th2016_1": {
@@ -105,17 +127,28 @@
 		"year": 2016,
 		"tag": "ref",
 		"lang": "en",
-		"number": "C.13, №4"
+		"number": "C.13, №4",
+		"link": {
+			"internal": true,
+			"url": "pdfs/abgaryan2016_2.pdf",
+			"type": "pdf"
+		}
 	},
 
 	"art2016_6": {
 		"name": "Classical and quantum aspects of spin interaction in 3d chains on a Cu3N-Cu(110) molecular network",
-		"authors": ["abgaryan_k_k", "Stepanyuk O.V.", "Faberovich O.V.", "Stepanyuk V.S."],
+		"authors": ["abgaryan_k_k", "Stepanyuk O.V.", "Farberovich O.V.", "Stepanyuk V.S."],
 		"journal": "Phys. Rev.",
 		"number": "B.93, №3",
 		"year": 2016,
 		"tag": "ref",
-		"lang": "en"
+		"lang": "en",
+		"doi": "10.1103/PhysRevB.93.035444",
+		"link": {
+			"internal": true,
+			"url": "pdfs/bazhanov2016.pdf",
+			"type": "pdf"
+		}	
 	},
 
 	"art2016_7": {
@@ -157,7 +190,12 @@
 		"journal": "Lecture Notes in Computer Science",
 		"number": "V. 9719",
 		"pages": [583,591],
-		"tag": "ref"
+		"tag": "ref",
+		"doi": "https://doi.org/10.1007/978-3-319-40663-3_67",
+		"link": {
+			"url": "https://link.springer.com/chapter/10.1007%2F978-3-319-40663-3_67",
+			"type": "abstract"
+		}
 	},
 
 	"art2016_10": {

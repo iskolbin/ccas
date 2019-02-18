@@ -57,6 +57,23 @@
 		"tag": "rinc"
 	},
 
+	"art2014_7": {
+		"name": "Effect of mesoscopic misfit on growth, morphology, electronic properties and magnetism of nanostructures at metallic surfaces",
+		"authors": ["Brovko O.O.", "bazhanov_d_i", "Meyerheim H.L.", "Sander D.", "Stepanyuk V.S."],
+		"year": 2014,
+		"journal": "Surf. Sci. Reports",
+		"number": "Vol. 68, Issue 4",
+		"pages": [159,195],
+		"doi": "https://doi.org/10.1016/j.surfrep.2014.08.001",
+		"lang": "en",
+		"tag": "ref",
+		"link": {
+			"internal": true,
+			"url": "pdfs/brovko2014.pdf",
+			"type": "pdf"
+		}
+	},
+
 	"th2014_1": {
 		"name": "Библиографический репозиторий системы информационной поддержки задач кристаллографии",
 		"authors": ["abgaryan_k_k", "Марасанов А.М.", "sechenykh_p_a"],
