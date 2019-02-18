@@ -25,7 +25,7 @@ navbar: true
  	  {% if author.shortname %}
      {{author.shortname}}
     {% else %}
-     {% if author.surname %} {{author.surname}} {% endif %}
+     {% if author.surname %}{{author.surname}}{% endif %}
      {% if author.firstname %}{{author.firstname | truncate:1,''}}.{% endif %}{% if author.patronymic %}{{author.patronymic | truncate:1,''}}.{% endif %}
     {% endif %}
    </a>
@@ -33,7 +33,7 @@ navbar: true
    {{auth}}
   {% endif %}
    {% unless forloop.last %},{% endunless %}
-  {% endfor %} {{pub.name}}. — {% if pub.origin %}{{pub.origin}}:{% endif %} {% if pub.journal %}{{pub.journal}},{% endif %}{%if pub.conference %}{{pub.conference}},{% endif %} {{pub.year}}.{% if pub.pages %} — {{p}}{{pub.pages | join: '-'}}{% endif %}{% if pub.mpages %} — {{p}}{{pub.mpages | join: ','}}{% endif %}{% if pub.doi %}, DOI:{{pub.doi}}{% endif %}
+  {% endfor %}{{pub.name}}. — {% if pub.origin %}{{pub.origin}}:{% endif %} {% if pub.journal %}{{pub.journal}},{% endif %}{%if pub.conference %}{{pub.conference}},{% endif %} {{pub.year}}.{% if pub.pages %} — {{p}}{{pub.pages | join: '-'}}{% endif %}{% if pub.mpages %} — {{p}}{{pub.mpages | join: ','}}{% endif %}{% if pub.doi %}, DOI:{{pub.doi}}{% endif %}
 	{% if pub.link %}
 		{% assign url = pub.link.url %}
 		{% assign prefix = "" %}
