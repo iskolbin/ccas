@@ -48,6 +48,19 @@
         }
     }
     
+    .page-link-accent {
+        //color: $text-color;
+        line-height: $base-line-height;
+				color: $nav-font-color;
+        border-radius: 5px;
+				background: #BF3030;
+				padding: 10px;
+				// Gaps between nav items, but not on the first one
+        &:not(:first-child) {
+            margin-left: 20px;
+        }
+    }
+
 		.lang-link {
         line-height: $base-line-height;
 				padding: 10px;
