@@ -144,7 +144,13 @@
 		"authors": ["abgaryan_k_k", "mutigullin_i_v", "reviznikov_d_l"],
 		"year": 2014,
 		"conference": "E-MRS Spring Meeting 2014. K-8",
-		"lang": "en"
+		"lang": "en",
+		"pages": [1,5],
+		"link": {
+			"internal": true,
+			"url": "pdfs/abgaryan2014_2.pdf",
+			"type": "pdf"
+		}
 	},
 
 	"th2014_8": {
