@@ -42,7 +42,12 @@
 		"journal": "Journal of Surface Investigation. X-ray. Synchrotron and Neutron Techniques",
 		"number": "Vol. 7, Issue 1",
 		"pages": [76,80],
-		"lang": "en"
+		"lang": "en",
+		"link": {
+			"internal": true,
+			"url": "pdfs/abgaryan2013_2.pdf",
+			"type": "pdf"
+		}
 	},
 
 	"th2013_1": {
