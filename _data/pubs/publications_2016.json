@@ -60,6 +60,20 @@
 		}
 	},
 
+	"art2016_6": {
+		"name": "Theoretical Investigation of the Electronic and Structural Properties of AlN Thin Films",
+		"year": 2016,
+		"journal": "Russian Microelectronics",
+		"number": "Vol.45, №8-9",
+		"tag": "ref",
+		"lang": "en",
+		"link": {
+			"internal": true,
+			"url": "pdfs/abgaryan2016_4.pdf",
+			"type": "pdf"
+		}
+	},
+
 	"th2016_1": {
 		"name": "Компьютерное моделирование процесса нитридизации поверхности кремния",
 		"authors": ["abgaryan_k_k", "volodina_o_v", "uvarov_s_i"],
