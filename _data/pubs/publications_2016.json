@@ -179,7 +179,12 @@
 		"journal": "Computational Mathematics and Mathematical Physics",
 		"number": "56 (1)",
 		"pages": [161,172],
-		"tag": "ref"
+		"tag": "ref",
+		"link": {
+			"internal": true,
+			"url": "pdfs/abgaryan2016_3.pdf",
+			"type": "pdf"
+		}
 	},
 
 	"art2016_9": {
