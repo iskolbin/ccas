@@ -26,7 +26,12 @@
 		"number": "Vol.54, №12",
 		"pages": [1929,1935],
 		"tag": "rec",
-		"lang": "en"
+		"lang": "en",
+		"link": {
+			"internal": true,
+			"url": "pdfs/abgaryan2014.pdf",
+			"type": "pdf"
+		}
 	},
 
 	"art2014_4": {
