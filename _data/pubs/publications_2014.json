@@ -31,7 +31,7 @@
 
 	"art2014_4": {
 		"name": "AB initio study of macroscopic polarization of AlN, GaN and AlGaN",
-		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mitigullin_i_v", "Supryadkina I.A."],
+		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mutigullin_i_v", "Supryadkina I.A."],
 		"year": 2014,
 		"journal": "Phys.Status Solidi",
 		"number": "С11, №2",
@@ -74,6 +74,20 @@
 		}
 	},
 
+	"art2014_8": {
+		"name": "Ab initio study of macroscopic polarization of AlN, GaN and AlGaN",
+		"authors": ["abgaryan_k_k", "Supryadkina I.A.", "bazhanov_d_i", "mutigullin_i_v"],
+		"year": 2014,
+		"journal": "Phys. Status Solidi C",
+		"pages": [1,5],
+		"doi": "10.1002/pssc.201300756",
+		"link": {
+			"internal": true,
+			"url": "pdfs/supryadkina2014.pdf",
+			"type": "pdf"
+		}
+	},
+
 	"th2014_1": {
 		"name": "Библиографический репозиторий системы информационной поддержки задач кристаллографии",
 		"authors": ["abgaryan_k_k", "Марасанов А.М.", "sechenykh_p_a"],
@@ -93,7 +107,7 @@
 
 	"th2014_3": {
 		"name": "Теоретическое исследование из первых принципов адсорбции атомарного азота на поверхности сапфира",
-		"authors": ["abgaryan_k_k", "mitigullin_i_v"],
+		"authors": ["abgaryan_k_k", "mutigullin_i_v"],
 		"year": 2014,
 		"conference": "Сборник тезисов докладов НСКФ-2014. http://2014.nscf.ru/nauchno-prakticheskaya-konferenciya/tezisy-dokladov/"
 	},
@@ -114,7 +128,7 @@
 
 	"th2014_6": {
 		"name": "Многомасштабное моделирование распределения и подвижности носителей заряда в полупроводниковых гетероструктруктурах",
-		"authors": ["abgaryan_k_k", "mitigullin_i_v", "reviznikov_d_l"],
+		"authors": ["abgaryan_k_k", "mutigullin_i_v", "reviznikov_d_l"],
 		"year": 2014,
 		"conference": "Тезисы докладов Международной конференции  «Современные проблемы вычислительной математики и математической физики». Москва. 2014",
 		"pages": [68,70]
@@ -122,7 +136,7 @@
 
 	"th2014_7": {
 		"name": "Computational model of 2DEG mobility in the AlGaN/GaN heterostructures",
-		"authors": ["abgaryan_k_k", "mitigullin_i_v", "reviznikov_d_l"],
+		"authors": ["abgaryan_k_k", "mutigullin_i_v", "reviznikov_d_l"],
 		"year": 2014,
 		"conference": "E-MRS Spring Meeting 2014. K-8",
 		"lang": "en"

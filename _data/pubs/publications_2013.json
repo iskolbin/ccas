@@ -1,7 +1,7 @@
 {
 	"art2013_1": {
 		"name": "Исследование адсорбции атомарного азота на поверхности Al2O3 (0001)",
-		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mitigullin_i_v"],
+		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mutigullin_i_v"],
 		"year": 2013,
 		"journal": "Поверхность. Рентгеновские, синхротронные и нейтронные исследования",
 		"number": "№1",
@@ -11,7 +11,7 @@
 
 	"art2013_2": {
 		"name": "Исследование поляризаций нитридных соединений (Al,Ga,AlGa)N и зарядовой плотности различных интерфейсов на их основе",
-		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mitigullin_i_v", "Супрядкина И.А."],
+		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mutigullin_i_v", "Супрядкина И.А."],
 		"year": 2013,
 		"journal": "Физика и техника полупроводников",
 		"number": "том 47, вып. 12",
@@ -21,7 +21,7 @@
 
 	"art2013_3": {
 		"name": "Study of the Polarizations of (Al,Ga,AlGa)N Nitride Compounds and the Charge Density of Various Interfaces Based on",
-		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mitigullin_i_v", "Supryadkina I.A."],
+		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mutigullin_i_v", "Supryadkina I.A."],
 		"year": 2013,
 		"journal": "Them. Semiconductors",
 		"number": "Vol. 47, № 12",
@@ -32,7 +32,7 @@
 
 	"art2013_4": {
 		"name": "Investigation into the adsorption of atomic nitrogen on an Al2O3 (0001) surface",
-		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mitigullin_i_v"],
+		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mutigullin_i_v"],
 		"year": 2013,
 		"journal": "Journal of Surface Investigation. X-ray. Synchrotron and Neutron Techniques",
 		"number": "Vol. 7, Issue 1",
@@ -42,7 +42,7 @@
 
 	"th2013_1": {
 		"name": "Компьютерное моделирование многослойных полупроводниковых наноструктур",
-		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mitigullin_i_v"],
+		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mutigullin_i_v"],
 		"year": 2013,
 		"conference": "Материалы XVII Международной конференции по вычислительной механике и современным прикладным программным системам (ВМСППС’2013) 22-31 мая 2013 г., Алушта",
 		"pages": [26,28]
@@ -50,7 +50,7 @@
 
 	"th2013_2": {
 		"name": "Применение методов многомасштабного моделирования для изучения дефектов нитридных полупроводниковых наноструктур на подложке Si",
-		"authors": ["abgaryan_k_k", "mitigullin_i_v"],
+		"authors": ["abgaryan_k_k", "mutigullin_i_v"],
 		"year": 2013,
 		"conference": "Материалы XVII Международной конференции по вычислительной механике и современным прикладным программным системам (ВМСППС’2013) 22-31 мая 2013 г., Алушта",
 		"pages": [28,29]
@@ -74,7 +74,7 @@
 
 	"th2013_5": {
 		"name": "Теоретическое исследование ионно-индуцированных точечных дефектов и их комплексов в кремнии",
-		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mitigullin_i_v", "Супрядкина И.А.", "Федина Л.И."],
+		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mutigullin_i_v", "Супрядкина И.А.", "Федина Л.И."],
 		"year": 2013,
 		"conference": "Материалы международной конференции ВИП-2013, г. Ярославль. Т.1.",
 		"pages": [204,206]

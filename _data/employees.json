@@ -72,7 +72,7 @@
 		}
 	},
 
-	"mitigullin_i_v": {
+	"mutigullin_i_v": {
 		"surname": "Мутигуллин",
 	 	"firstname": "Илья", 
 		"patronymic": "Васильевич",
@@ -81,7 +81,7 @@
 		
 		"translate":{
 		  "en": {
-				"surname": "Mitigullin",
+				"surname": "Mutigullin",
 				"firstname": "Ilya",
 				"patronymic": "Vasilyevich",
 				"position": "Senior Researcher",

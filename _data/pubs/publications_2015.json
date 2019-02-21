@@ -21,7 +21,7 @@
 
 	"art2015_3": {
 		"name": "Теоретическое исследование электронных и геометрических характеристик тонких пленок AlN",
-		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mitigullin_i_v"],
+		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mutigullin_i_v"],
 		"journal": "Известия вузов. Материалы электронной техники",
 		"year": 2015,
 		"number": "№1",
@@ -31,7 +31,7 @@
 
 	"art2015_4": {
 		"name": "Влияние выбора параметров первопринципных расчетов  на предсказания энергетики точечных дефектов",
-		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mitigullin_i_v", "Ганченкова М.Г.", "Камынина И.А."],
+		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mutigullin_i_v", "Ганченкова М.Г.", "Камынина И.А."],
 		"journal": "Известия вузов. Материалы электронной техники",
 		"year": 2015,
 		"number": "№1",
@@ -61,7 +61,7 @@
 
 	"art2015_7": {
 		"name": "Computational model of 2DEG mobility in the AlGaN/GaN heterostructures",
-		"authors": ["abgaryan_k_k", "mitigullin_i_v", "reviznikov_d_l"],
+		"authors": ["abgaryan_k_k", "mutigullin_i_v", "reviznikov_d_l"],
 		"journal": "Phys.Status Solidi",
 		"number": "C12, №2",
 		"year": 2015,
@@ -76,7 +76,7 @@
 
 	"art2015_8": {
 		"name": "Theoretical investigation of 2DEG concentration and mobility in the AlGaN/GaN heterostructures with various Al concentrations",
-		"authors": ["abgaryan_k_k", "mitigullin_i_v", "reviznikov_d_l"],
+		"authors": ["abgaryan_k_k", "mutigullin_i_v", "reviznikov_d_l"],
 		"journal": "Phys.Status Solidi",
 		"number": "C12, №12",
 		"year": 2015,
