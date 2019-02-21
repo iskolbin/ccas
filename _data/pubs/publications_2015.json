@@ -90,6 +90,22 @@
 		}
 	},
 
+	"art2015_9": {
+		"name": "Object–relational architecture of information support of the multi-circuit calculation multilayer semiconductor nanostructures",
+		"authors": ["abgaryan_k_k", "sechenykh_p_a", "Supryadkina I.A."],
+		"year": 2015,
+		"lang": "en",
+		"tag": "rec",
+		"journal": "Modern Electronic Materials",
+		"number": "1",
+		"pages": [38,42],
+		"link": {
+			"internal": true,
+			"url": "pdfs/abgaryan2015_2.pdf",
+			"type": "pdf"
+		}
+	},
+
 	"th2015_1": {
 		"name": "Особенности многоуровневого моделирования полупроводниковых наноструктур",
 		"authors": ["abgaryan_k_k"],
