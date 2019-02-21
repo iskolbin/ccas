@@ -38,7 +38,12 @@
 		"year": 2012,
 		"number": "Volume 76, Issue 6",
 		"pages": [696,698],
-		"lang": "en"
+		"lang": "en",
+		"link": {
+			"internal": true,
+			"url": "pdfs/abgaryan2012.pdf",
+			"type": "pdf"
+		}
 	},
 
 	"th2012_1": {
