@@ -27,5 +27,20 @@
 			"url": "pdfs/farberovich2017.pdf",
 			"type": "pdf"
 		}
+	},
+
+	"art2017_3": {
+		"name": "Многомасштабное моделирование в задачах структурного материаловедения",
+		"authors": ["abgaryan_k_k"],
+		"year": 2017,
+		"tag": "ref",
+		"origin": "М.",
+		"journal": "МАКС Пресс.",
+		"npages": 284,
+		"link": {
+			"internal": true,
+			"url": "pdfs/abgaryan2017.pdf",
+			"type": "pdf"
+		}
 	}
 }
