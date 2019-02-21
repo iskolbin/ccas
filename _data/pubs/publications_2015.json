@@ -1,7 +1,7 @@
 {
 	"art2015_1": {
 		"name": "Объектно-реляционный подход к разработке системы компьютерного моделирования многомасштабной схемы расчета многослойных полупроводниковых наноструктур",
-		"authors": ["abgaryan_k_k", "sechenykh_p_a", "gavrilov_e_s"],
+		"authors": ["abgaryan_k_k", "sechenikh_p_a", "gavrilov_e_s"],
 		"journal": "Программная инженерия",
 		"number": "№8",
 		"pages": [9,17],
@@ -92,7 +92,7 @@
 
 	"art2015_9": {
 		"name": "Object–relational architecture of information support of the multi-circuit calculation multilayer semiconductor nanostructures",
-		"authors": ["abgaryan_k_k", "sechenykh_p_a", "Supryadkina I.A."],
+		"authors": ["abgaryan_k_k", "sechenikh_p_a", "Supryadkina I.A."],
 		"year": 2015,
 		"lang": "en",
 		"tag": "rec",
@@ -132,7 +132,7 @@
 
 	"th2015_4": {
 		"name": "Архитектура платформы интеграции приложений для задач материаловедения",
-		"authors": ["abgaryan_k_k", "gavrilov_e_s", "sechenykh_p_a"],
+		"authors": ["abgaryan_k_k", "gavrilov_e_s", "sechenikh_p_a"],
 		"year": 2015,
 		"conference": "Материалы XIX Международной конференции по вычислительной механике и современным прикладным программным системам (ВМСППС’2015) 24-31 мая 2015 г., Алушта",
 		"pages": [126,128]
