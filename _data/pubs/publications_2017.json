@@ -42,5 +42,20 @@
 			"url": "pdfs/abgaryan2017.pdf",
 			"type": "pdf"
 		}
+	},
+
+	"art2017_4": {
+		"name": "The Standard Model of the Heterostructure for Microwave Devices",
+		"authors": ["abgaryan_k_k", "harchenko_v_a"],
+		"journal": "Russian Microelectronics",
+		"number": "Vol.46, №8",
+		"pages": [564,570],
+		"lang": "en",
+		"year": 2017,
+		"link": {
+			"internal": true,
+			"url": "pdfs/abgaryan2017_2.pdf",
+			"type": "pdf"
+		}
 	}
 }
