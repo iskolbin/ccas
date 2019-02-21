@@ -8,7 +8,12 @@
 		"year": 2012,
 		"pages": [696,698],
 		"origin": "Из-во: Наука. ISSN  0367-6765",
-		"tag": "ref"
+		"tag": "ref",
+		"link": {
+			"internal": true,
+			"url": "pdfs/abgaryan2012.pdf",
+			"type": "pdf"
+		}
 	},
 
 	"art2012_2": {
@@ -41,7 +46,7 @@
 		"lang": "en",
 		"link": {
 			"internal": true,
-			"url": "pdfs/abgaryan2012.pdf",
+			"url": "pdfs/abgaryan2012_2.pdf",
 			"type": "pdf"
 		}
 	},
