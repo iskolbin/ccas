@@ -5,8 +5,13 @@
 		"year": 2013,
 		"journal": "Поверхность. Рентгеновские, синхротронные и нейтронные исследования",
 		"number": "№1",
-		"pages": [1,5],
-		"tag": "ref"
+		"pages": [80,84],
+		"tag": "ref",
+		"link": {
+			"internal": true,
+			"url": "pdfs/abgaryan2013.pdf",
+			"type": "pdf"
+		}
 	},
 
 	"art2013_2": {
