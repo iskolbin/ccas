@@ -57,5 +57,35 @@
 			"url": "pdfs/abgaryan2017_2.pdf",
 			"type": "pdf"
 		}
+	},
+
+	"art2017_5": {
+		"name": "Численные методы в моделировании электронных свойств наноразмерных гетероструктур",
+		"authors": ["abgaryan_k_k", "reviznikov_d_l"],
+		"year": 2017,
+		"tag": "ref",
+		"origin": "Учебное пособие",
+		"journal": "МАКС Пресс.",
+		"npages": 108,
+		"link": {
+			"internal": true,
+			"url": "pdfs/abgaryan2017_3.pdf",
+			"type": "pdf"
+		}
+	},
+
+	"art2017_6": {
+		"name": "Вычислительные алгоритмы в задачах математического моделирования устойчивых структур кристаллических материалов",
+		"authors": ["abgaryan_k_k"],
+		"year": 2017,
+		"tag": "ref",
+		"origin": "Учебное пособие",
+		"journal": "МАКС Пресс.",
+		"npages": 100,
+		"link": {
+			"internal": true,
+			"url": "pdfs/abgaryan2017_4.pdf",
+			"type": "pdf"
+		}
 	}
 }
