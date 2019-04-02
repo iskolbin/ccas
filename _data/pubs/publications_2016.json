@@ -274,5 +274,20 @@
 		"conference": "European Materials Research Society, E-MRS Spring Meeting, 2016.Lille, France, 2-7 мау",
 		"lang": "en",
 		"number": "BB.6.45."
-	}
+	},
+
+	"art2016_14": {
+		"name": "Вычислительные алгоритмы в задачах моделирования и оптимизации полупроводниковых гетероструктур",
+		"authors": ["abgaryan_k_k", "reviznikov_d_l"],
+		"journal": "Издательство \"Москва\"",
+		"origin": "Монография",
+		"year": 2016,
+		"tag": "ref",
+		"npages": 122,
+		"link": {
+			"internal": true,
+			"url": "pdfs/Book2016.pdf",
+			"type": "pdf"
+		}
+	},
 }
